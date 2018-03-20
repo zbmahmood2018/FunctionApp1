@@ -3,7 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "appName": {
-      "value": "ZBMDefaultEchoApp1"
+      "value": "ZBMFunctionAppGit1"
+    },
+    "repoURL": {
+      "value": "https://github.com/zbmahmood2018/FunctionApp1.git"
     }
   }
 }
